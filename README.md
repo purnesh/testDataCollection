@@ -1,19 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Your Own Recommendations
 
-You can use the [editor on GitHub](https://github.com/purnesh/testDataCollection/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi BJ, 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We have curation a list of recommendations for you that I thought you might like, well, 'might' being the keyword there. :D 
 
-### Markdown
+### Lean In
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for *[Read More](https://wes-edu.in/bj01-01)*
 
 - Bulleted
 - List
