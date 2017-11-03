@@ -4,27 +4,16 @@ Hi BJ,
 
 We have curation a list of recommendations for you that I thought you might like, well, 'might' being the keyword there. :D 
 
-### Lean In
+## Lean In
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for *[Read More](https://wes-edu.in/bj01-01)*
+In their groundbreaking book, Women Don't Ask, Linda Babcock and Sara Laschever uncovered a startling fact: even women who negotiate brilliantly on behalf of others often falter when it comes to asking for themselves. Now they've developed the action plan that women all over... *[Read More](https://wes-edu.in/bj01-01)*
 
-- Bulleted
-- List
+## How Remarkable Women Lead: The Breakthrough Model for Work and Life
 
-1. Numbered
-2. List
+The Remarkable discoveries about what drives and sustains successful women leaders.
 
-**Bold** and _Italic_ and `Code` text
+Based on five years of proprietary research, How Remarkable Women Lead speaks to you as no other book has, with its hopeful outlook and unique ideas about... *[Read More](https://wes-edu.in/bj01-02)*
 
-[Link](url) and ![Image](src)
-```
+### Loved it? Hated it? Give me a shout out
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/purnesh/testDataCollection/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can obviously contact me directly wherever you like :)
