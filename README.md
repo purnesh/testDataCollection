@@ -1,4 +1,4 @@
-## Welcome to Your Own Recommendations
+## Our picks for you this month
 
 Hi BJ, 
 
